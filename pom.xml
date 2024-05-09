@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>jru.module3</groupId>
-    <artifactId>project-maven-master</artifactId>
+    <artifactId>project-maven</artifactId>
     <version>1.0</version>
 
     <properties>
